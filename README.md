@@ -31,7 +31,7 @@ Publish the website in the given URL.
 ## DESIGN TOOL:
 Figma
 
-## OUTPUT:
+## CODE:
 ```
 /* Home Page */
 
@@ -77,6 +77,10 @@ font-family: 'Inter'; font-style: normal; font-weight: 400; font-size: 16px; lin
 
 color: #000000;
 ```
+## OUTPUT:
+![Output](./out1.png)
+![Output](./out2.png)
+![Output](./out3.png)
 
 ## RESULT:
 
